@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let quotes = [];
     const today = new Date();
 
-    fetch('./quotes.json')
+    fetch('./assets/quotes.json')
         .then(response => response.json())
         .then(data => {
             quotes = data;
