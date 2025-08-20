@@ -1,5 +1,5 @@
-[![Quote of the Day Screenshot](/assets/quote-of-the-day-banner.jpg)]()
-# Quote of the Day Web App — [Live Demo]()
+[![Quote of the Day Screenshot](/assets/quote-of-the-day-banner.jpg)](https://kolonatalie.github.io/quote-of-the-day/)
+# Quote of the Day Web App — [Live Demo](https://kolonatalie.github.io/quote-of-the-day/)
 A simple JavaScript frontend project that displays one new quote every day.
 Quotes include funny lines, iconic movie quotes, and words from famous people.
 
