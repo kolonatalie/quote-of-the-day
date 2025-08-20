@@ -1,0 +1,253 @@
+[
+  {
+       "id": 1,
+       "text": "Frankly, my dear, I don’t give a damn.",
+       "name": "Gone with the Wind"
+   },
+{
+       "id": 2,
+       "text": "You know you’re getting old when the candles cost more than the cake.",
+       "name": "Bob Hope"
+   },
+{
+       "id": 3,
+       "text": "It’s LeviOsa, not LevioSA.",
+       "name": "Hermione Granger"
+   },
+{
+       "id": 4,
+       "text": "People say, ‘How you stay looking so young?’ I say, well, good lighting, good doctors, and good makeup.",
+       "name": "Dolly Parton"
+   },
+{
+       "id": 5,
+       "text": "I’m just one stomach flu away from my goal weight.",
+       "name": "The Devil Wears Prada"
+   },
+{
+       "id": 6,
+       "text": "A day without sunshine is like, you know, night.",
+       "name": "Steve Martin"
+   },
+{
+       "id": 7,
+       "text": "Houston, we have a problem.",
+       "name": "Apollo 13"
+   },
+{
+       "id": 8,
+       "text": "Trying is the first step toward failure.",
+       "name": "Homer Simpson"
+   },
+{
+       "id": 9,
+       "text": "Show me the money!",
+       "name": "Jerry Maguire"
+   },
+{
+       "id": 10,
+       "text": "I like long walks, especially when they are taken by people who annoy me.",
+       "name": "Noel Coward"
+   },
+{
+       "id": 11,
+       "text": "Adults are always asking children what they want to be when they grow up because they’re looking for ideas.",
+       "name": "Paula Poundstone"
+   },
+{
+       "id": 12,
+       "text": "May the Force be with you.",
+       "name": "Star Wars"
+   },
+{
+       "id": 13,
+       "text": "With great power comes great responsibility.",
+       "name": "Spider-Man"
+   },
+{
+       "id": 14,
+       "text": "People can’t drive you crazy if you don’t give them the keys.",
+       "name": "Mike Bechtle"
+   },
+{
+       "id": 15,
+       "text": "If at first you don’t succeed, try, try again. Then quit. No use being a damn fool about it.",
+       "name": "W.C. Fields"
+   },
+{
+       "id": 16,
+       "text": "I’m not bad. I’m just drawn that way.",
+       "name": "Who Framed Roger Rabbit"
+   },
+{
+       "id": 17,
+       "text": "When in doubt, look intelligent.",
+       "name": "Garrison Keillor"
+   },
+{
+       "id": 18,
+       "text": "According to the map, we’ve only gone four inches.",
+       "name": "Dumb and Dumber"
+   },
+{
+       "id": 19,
+       "text": "If you think your boss is stupid, remember: You wouldn’t have a job if he was any smarter.",
+       "name": "John Gotti"
+   },
+{
+       "id": 20,
+       "text": "When I was growing up, I always wanted to be someone. Now I realize I should have been more specific.",
+       "name": "Lily Tomlin"
+   },
+{
+       "id": 21,
+       "text": "I’m not insane. My mother had me tested.",
+       "name": "Sheldon Cooper"
+   },
+{
+       "id": 22,
+       "text": "Doing nothing is very hard to do…you never know when you’re finished.",
+       "name": "Leslie Nielsen"
+   },
+{
+       "id": 23,
+       "text": "Toto, I’ve a feeling we’re not in Kansas anymore.",
+       "name": "The Wizard of Oz"
+   },
+{
+       "id": 24,
+       "text": "People say nothing is impossible, but I do nothing every day.",
+       "name": "Winnie-the-Pooh"
+   },
+{
+       "id": 25,
+       "text": "No man goes before his time — unless the boss leaves early.",
+       "name": "Groucho Marx"
+   },
+{
+       "id": 26,
+       "text": "To infinity... and beyond!",
+       "name": "Toy Story"
+   },
+{
+       "id": 27,
+       "text": "Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?",
+       "name": "George Carlin"
+   },
+{
+       "id": 28,
+       "text": "Sometimes the appropriate response to reality is to go insane.",
+       "name": "Philip K. Dick"
+   },
+{
+       "id": 29,
+       "text": "I like my money where I can see it: hanging in my closet.",
+       "name": "Carrie Bradshaw"
+   },
+{
+       "id": 30,
+       "text": "Why do they call it rush hour when nothing moves?",
+       "name": "Robin Williams "
+   },
+{
+       "id": 31,
+       "text": "I’ll be back.",
+       "name": "The Terminator"
+   },
+{
+       "id": 32,
+       "text": "I never feel more alone than when I’m trying to put sunscreen on my back.",
+       "name": "Jimmy Kimmel"
+   },
+{
+       "id": 33,
+       "text": "Don’t be so humble — you're not that great.",
+       "name": " Golda Meir"
+   },
+{
+       "id": 34,
+       "text": "Let it go!",
+       "name": "Frozen"
+   },
+{
+       "id": 35,
+       "text": "In real life, I assure you, there is no such thing as algebra.",
+       "name": "Fran Lebowitz"
+   },
+{
+       "id": 36,
+       "text": "I love deadlines. I love the whooshing noise they make as they go by.",
+       "name": "Douglas Adams"
+   },
+{
+       "id": 37,
+       "text": "Accept who you are. Unless you’re a serial killer.",
+       "name": "Ellen DeGeneres"
+   },
+{
+       "id": 38,
+       "text": "Whoever said that money can’t buy happiness, simply didn’t know where to go shopping.",
+       "name": "Bo Derek"
+   },
+{
+       "id": 39,
+       "text": "You shall not pass!",
+       "name": "The Lord of the Rings"
+   },
+{
+       "id": 40,
+       "text": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile from them, and you'll have their shoes.",
+       "name": "Jack Handy"
+   },
+{
+       "id": 41,
+       "text": "I’m not great at the advice — can I interest you in a sarcastic comment?",
+       "name": "Chandler Bing"
+   },
+{
+       "id": 42,
+       "text": "I’m sick of following my dreams, man. I’m just going to ask where they’re going and hook up with ’em later.",
+       "name": "Mitch Hedberg"
+   },
+{
+       "id": 43,
+       "text": "All you need is love. But a little chocolate now and then doesn’t hurt.",
+       "name": "Charles M. Schulz"
+   },
+{
+       "id": 44,
+       "text": "Life is like a box of chocolates, you never know what you’re gonna get.",
+       "name": "Forrest Gump"
+   },
+{
+       "id": 45,
+       "text": "It is useless to try to hold a person to anything he says while he’s madly in love, drunk, or running for office.",
+       "name": " Shirley MacLaine"
+   },
+{
+       "id": 46,
+       "text": "The reason I talk to myself is because I’m the only one whose answers I accept.",
+       "name": "George Carlin"
+   },
+{
+       "id": 47,
+       "text": "My husband and I fell in love at first sight. Maybe I should have taken a second look.",
+       "name": "Halley Reed"
+   },
+{
+       "id": 48,
+       "text": "As I learned from growing up, you don’t mess with your grandmother.",
+       "name": "Prince William"
+   },
+{
+       "id": 49,
+       "text": "Nobody puts Baby in a corner.",
+       "name": "Dirty Dancing"
+   },
+{
+       "id": 50,
+       "text": "Why so serious?",
+       "name": "The Dark Knight"
+   }
+
+]
